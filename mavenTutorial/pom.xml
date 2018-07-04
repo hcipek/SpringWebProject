@@ -45,7 +45,12 @@
 			</plugin>
 		</plugins>
 	</build>
+<!--
+-Local Repository
 
+-
+
+-->
 	<repositories>
 		<repository>
 			<id>spring-snapshots</id>

@@ -10,3 +10,4 @@ public class MavenTutorialApplication {
 		SpringApplication.run(MavenTutorialApplication.class, args);
 	}
 }
+ 
